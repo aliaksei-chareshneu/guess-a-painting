@@ -12,10 +12,62 @@ p {
     margin: 0;
 }
 
+:root {
+    --white: #afafaf;
+    --red: #e31b23;
+    --bodyColor: #292a2b;
+    --borderFormEls: hsl(0, 0%, 10%);
+    --bgFormEls: hsl(0, 0%, 14%);
+    --bgFormElsFocus: hsl(0, 7%, 20%);
+}
+
+input {
+    width: 100%;
+    line-height: 1.5;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px 5px;
+    border: 1px solid var(--borderFormEls);
+    border-radius: 0.25rem;
+    color: var(--white);
+    background: var(--bgFormEls);
+}
+
+.kc_fab_main_btn {
+    position: absolute;
+    right: 20px;
+    bottom: 140px;
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    /* background: #F44336; */
+    border: none;
+    outline: none;
+    color: rgb(78, 67, 67);
+    font-size: 36px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    transition: .3s;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }
+  
+  .kc_fab_main_btn:focus {
+    transform: scale(1.1);
+    transform: rotate(359deg);
+    -ms-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+  }
+
+/* * {
+    -webkit-border-radius: 0 !important;
+       -moz-border-radius: 0 !important;
+            border-radius: 0 !important;
+} */
+
 .japan-spirit {
-    font-family: "Far East";
+    /* font-family: "Far East";
     text-indent: -9rem;
-    padding-left: 3rem;
+    padding-left: 3rem; */
 }
 
 body {
@@ -31,19 +83,36 @@ body {
     justify-content: center;
 }
 
-article.card {
+.toast-semi-transparent {
     background-color: rgba(25, 25, 25, 0.75) !important;
-    margin-left: 5px;
-    margin-right: 5px;
 }
 
-#root, #box {
+#root{
     height: 100%;
+}
+
+#flex-wrapper {
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+}
+
+header {
+    height: 100px;
+}
+
+footer {
+    height: 120px;
+}
+
+#box {
+    /* height: 100%; */
+    flex-grow: 1;
 }
 
 main {
     background-image: url("https://source.unsplash.com/collection/1252289");
-    background-size: 100vw 100vh;
+    background-size: 100vw 100%;
     background-repeat: no-repeat;
 }
 
@@ -59,13 +128,13 @@ main {
 }
 
 .rising-sun {
-    position: absolute;
-    margin-right: 3rem;
+    /* position: absolute;
+    margin-right: 3rem; */
 }
 
 .japan-spirit > p {
     z-index: 1;
-    text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black;
+    /* text-shadow: 0 0 5px black, 0 0 5px black, 0 0 5px black, 0 0 5px black; */
 }
 
 @keyframes fadein {
