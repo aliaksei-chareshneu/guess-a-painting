@@ -247,6 +247,7 @@ const MainBox = () => {
                 </div>
                 <button className="kc_fab_main_btn" onClick={() => {
                     setShowHint(true);
+                    displayCorrectAnswer();
                 }}>?</button>
             </main>
             <footer className="bg-dark">
