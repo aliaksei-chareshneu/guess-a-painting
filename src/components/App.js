@@ -1,9 +1,9 @@
 import React from 'react'
-import HieroglyphBox from './HieroglyphBox'
+import MainBox from './MainBox'
 
 const App = () => {
     return (
-        <HieroglyphBox />
+        <MainBox />
     )
 }
 
