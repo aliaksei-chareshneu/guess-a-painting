@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/guess-a-painting/static/css/main.bcdc82e6.chunk.css",
+    "main.js": "/guess-a-painting/static/js/main.9818f106.chunk.js",
+    "main.js.map": "/guess-a-painting/static/js/main.9818f106.chunk.js.map",
+    "runtime-main.js": "/guess-a-painting/static/js/runtime-main.1a9a4cc5.js",
+    "runtime-main.js.map": "/guess-a-painting/static/js/runtime-main.1a9a4cc5.js.map",
+    "static/css/2.2a86faee.chunk.css": "/guess-a-painting/static/css/2.2a86faee.chunk.css",
+    "static/js/2.70b03e8c.chunk.js": "/guess-a-painting/static/js/2.70b03e8c.chunk.js",
+    "static/js/2.70b03e8c.chunk.js.map": "/guess-a-painting/static/js/2.70b03e8c.chunk.js.map",
+    "index.html": "/guess-a-painting/index.html",
+    "precache-manifest.2759f33ceca0f160c28302a072ac8ee1.js": "/guess-a-painting/precache-manifest.2759f33ceca0f160c28302a072ac8ee1.js",
+    "service-worker.js": "/guess-a-painting/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/guess-a-painting/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.bcdc82e6.chunk.css.map": "/guess-a-painting/static/css/main.bcdc82e6.chunk.css.map",
+    "static/js/2.70b03e8c.chunk.js.LICENSE.txt": "/guess-a-painting/static/js/2.70b03e8c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/guess-a-painting/static/media/fareast.50726969.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a9a4cc5.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.70b03e8c.chunk.js",
+    "static/css/main.bcdc82e6.chunk.css",
+    "static/js/main.9818f106.chunk.js"
+  ]
+}
