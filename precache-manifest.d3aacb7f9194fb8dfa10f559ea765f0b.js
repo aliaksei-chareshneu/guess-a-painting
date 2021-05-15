@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "661522b16f58d373433a905533914191",
+    "revision": "f09af492ea7614309188ae99982a2c5d",
     "url": "/guess-a-painting/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guess-a-painting/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "73321d1715c8448cb6e9",
+    "revision": "32527cdebf5881390ee6",
     "url": "/guess-a-painting/static/css/main.bcdc82e6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guess-a-painting/static/js/2.70b03e8c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73321d1715c8448cb6e9",
-    "url": "/guess-a-painting/static/js/main.9818f106.chunk.js"
+    "revision": "32527cdebf5881390ee6",
+    "url": "/guess-a-painting/static/js/main.3382b19a.chunk.js"
   },
   {
     "revision": "c62a4a7433f23e3af3fa",

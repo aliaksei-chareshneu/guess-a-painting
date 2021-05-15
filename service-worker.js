@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/guess-a-painting/precache-manifest.2759f33ceca0f160c28302a072ac8ee1.js"
+  "/guess-a-painting/precache-manifest.d3aacb7f9194fb8dfa10f559ea765f0b.js"
 );
 
 self.addEventListener('message', (event) => {
