@@ -1,6 +1,6 @@
 {
-  "homepage": "http://aliaksei-chareshneu.github.io/japan-spirit",
-  "name": "japan-spirit",
+  "homepage": "http://aliaksei-chareshneu.github.io/guess-a-painting",
+  "name": "guess-a-painting",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
